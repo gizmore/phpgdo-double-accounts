@@ -1,5 +1,6 @@
 <?php
 namespace GDO\DoubleAccounts\lang;
+
 return [
 	'module_doubleaccounts' => 'Double Accounts',
 	'privacy_info_double_accounts' => 'To detect Double Accounts, we collect all IP-Addresses you use. Check out how long we keep the IPs inside the database.',

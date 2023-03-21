@@ -9,12 +9,13 @@ use GDO\Net\GDT_PackedIP;
 
 /**
  * An IP entry for a user.
- * 
- * @author gizmore
+ *
  * @version 7.0.1
+ * @author gizmore
  */
 final class GDO_DoubleAccountIP extends GDO
 {
+
 	public function gdoColumns(): array
 	{
 		return [
@@ -26,5 +27,4 @@ final class GDO_DoubleAccountIP extends GDO
 	}
 
 
-	
 }
